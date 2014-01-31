@@ -10,6 +10,7 @@ The we need to define 2 classes the leftpanel and the mainpanel -or container, o
 they both need to have the transform set to get the smooth transaction.
 ie ...   -webkit-transition: -webkit-transform 0.2s ease-in;
 
+"
 #leftpanel
 {
 -webkit-transition: -webkit-transform 0.2s ease-in; // smooth move
@@ -40,7 +41,7 @@ top:4px; left:4px;
 width:40px; height:40px; 
 opacity: 0.5;
 }
-
+"
 That is all folk. very simple. Now we need to get the element in action with Jquery. You can use any version of Jquery.
 ...
 <script type="text/javascript" src="js/jquery-1.5.2.min.js"></script>
