@@ -4,7 +4,7 @@ Css push panel
 Very simple left side push panel as seen in FB, GG, ...  used in 1001 Jokes app on Appstore and GGplay.
 
 Screen shot here
-http://i1363.photobucket.com/albums/r708/MyteeNathanwit/screenshot/list_zps2e4159a5.png
+http://i1363.photobucket.com/albums/r708/MyteeNathanwit/slidemenu_zps53933e89.png
 
 The we need to define 2 classes the leftpanel and the mainpanel -or container, or whatever that is the main screen-.
 they both need to have the transform set to get the smooth transaction.
@@ -52,7 +52,7 @@ note that there are 2 panels trigger here.
 <div id="about" style="border:1px solid gray; margin: 10% 5px; text-align:center;">
 <img style="float:left;margin:5px;margin-left: 10%" src="images/icon.png" />
 <h3>Myteezine ver <span id="version">1.5.0</span><br> Written by Mytee<br>  </h3> 
-<h4>Copyright © 2013-2014 <a href="http://intcloud.mobi">IntCloud</a> All rights reserved</h4>
+<h4>Copyright ï¿½ 2013-2014 <a href="http://intcloud.mobi">IntCloud</a> All rights reserved</h4>
 </div>
 </div>
 
